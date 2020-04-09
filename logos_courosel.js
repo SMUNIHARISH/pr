@@ -23,7 +23,7 @@ $(function() {
     if(rotating != false) {
       var $first = $('#clients-list li:first');
       $first.animate({ 'margin-left': '-220px' }, 2000, "linear", function() {
-        $first.remove().css({ 'margin-left': '0px' });
+        $first.remove().css({ 'margin-left': '50px' });
         $('#clients-list li:last').after($first);
       });
     }
