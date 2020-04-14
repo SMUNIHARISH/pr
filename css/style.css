@@ -546,7 +546,7 @@ headr:hover .owl-next {
 .footer .footerlogo1 .footerlogo2
 {
   display: inline-block;
-  margin-left: 70px;
+  margin-left: 125px;
   border:2px  white solid;
   margin-bottom: 10px;
 }
@@ -558,10 +558,18 @@ headr:hover .owl-next {
   margin-bottom: 10px;
 
 }
+.footer .footerlogo1 .footerlogo4
+{
+  display: inline-block;
+  margin-left: 20px;
+  border:2px  white solid;
+  margin-bottom: 10px;
+
+}
 .footer .footerlogo1 .footerlogo2 img
 {
-  width: 200px;
-  height: 150px;
+  width: 100px;
+  height: 75px;
   padding: 18px;
 }
 .footer .footerlogo1 .footerlogo2 img:hover
@@ -570,11 +578,21 @@ headr:hover .owl-next {
 }
 .footer .footerlogo1 .footerlogo3 img
 {
-  width: 200px;
-  height: 150px;
+  width: 100px;
+  height: 75px;
   padding: 20px;
 }
 .footer .footerlogo1 .footerlogo3 img:hover
+{
+  transform: scale(1.2);
+}
+.footer .footerlogo1 .footerlogo4 img
+{
+  width: 100px;
+  height: 75px;
+  padding: 20px;
+}
+.footer .footerlogo1 .footerlogo4 img:hover
 {
   transform: scale(1.2);
 }
