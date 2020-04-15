@@ -1150,9 +1150,3 @@ input:focus, textarea:focus, keygen:focus, select:focus {
   width: 20%;
   border-top: 5px solid #00ccff;
 }
-
-#video
-{
-  margin-left: 50vw;
-  transform: translate(-50%);
-}
