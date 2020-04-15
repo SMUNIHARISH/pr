@@ -1153,7 +1153,7 @@ input:focus, textarea:focus, keygen:focus, select:focus {
 
 #video
 {
-  height: 400px;
+  height: 500px;
   background: none !important;
-  max-width:800px;
+  max-width:1060px;
 }
